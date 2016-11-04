@@ -4,7 +4,7 @@
     	"details": [
         	{
             	"appID": "3Z685R25BD.com.bbva.francesgo-de",
-            	"paths": [ "*" ]
+            	"paths": [ "*", "/" ]
         	}
     	]
 	}
