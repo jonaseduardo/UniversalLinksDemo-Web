@@ -1,11 +1,11 @@
 {
-   "applinks": {
-       "apps": [ ], 
-       "details": [
-           {
-               "appID": "72H8ZPD4X8.com.behindtechlines.UniversalLinksDemo",
-               "paths": [ "/authors","/authors/*/books", "/authors/*" ]
-           }
-       ]
-    }
+	"applinks": {
+    	"apps": [ ],
+    	"details": [
+        	{
+            	"appID": "3Z685R25BD.com.bbva.francesgo-de",
+            	"paths": [ "*" ]
+        	}
+    	]
+	}
 }
